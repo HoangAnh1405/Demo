@@ -1,0 +1,15 @@
+table{
+    border-radius: 4px;
+}
+th,td{ 
+    text-align: center  ;
+    border: 1px solid #E0E0E0; 
+}
+th{
+    width: 200px;
+    background-color: #eeeeee;
+}
+td{
+    padding: 16px;
+
+}

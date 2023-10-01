@@ -1,0 +1,39 @@
+/* font */
+@import url(./fonts.css);
+/* layout */
+@import url(./layout.css);
+/* components */
+@import url(../components/button.css);
+@import url(../components/combobox.css);
+@import url(../components/input.css);
+@import url(../components/table.css);
+@import url(../components/toastmessage.css);
+
+/* text style */
+.text-caption {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+}
+.text-heading-2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+.text-body1-menu-button{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+}
+.text-left {
+    text-align: left;
+}
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}

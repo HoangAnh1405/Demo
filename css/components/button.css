@@ -1,0 +1,17 @@
+.pri-btn {
+    display: block;
+    width: fit-content;
+
+    padding:8px 16px;
+    margin: 10px auto;
+
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    background: #50b83c;
+    color: #fff;
+}
+.pri-btn:hover{
+    background-color: #57C841;
+    cursor:pointer;
+}

@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section {
+    margin: 20px 0;
+    padding: 20px 0;
+}
+section:first-child {
+    margin-top: 0;
+}
